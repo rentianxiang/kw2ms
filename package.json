@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
